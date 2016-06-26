@@ -7,3 +7,6 @@ C:\Users\navee_000\Source\Repos\DSALG\FidMaxK\FidMaxK\obj\Debug\FidMaxK.pdb
 C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\FidMaxK\FidMaxK\bin\Debug\FidMaxK.exe.config
 C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\FidMaxK\FidMaxK\obj\Debug\FidMaxK.exe
 C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\FidMaxK\FidMaxK\obj\Debug\FidMaxK.pdb
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\FidMaxK\FidMaxK\bin\Debug\FidMaxK.exe
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\FidMaxK\FidMaxK\bin\Debug\FidMaxK.pdb
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\FidMaxK\FidMaxK\obj\Debug\FidMaxK.csprojResolveAssemblyReference.cache

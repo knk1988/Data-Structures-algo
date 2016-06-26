@@ -1,0 +1,7 @@
+C:\Users\navee_000\Source\Repos\DSALG\Segregation\Segregation\bin\Debug\Segregation.exe.config
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\Segregation\Segregation\bin\Debug\Segregation.exe.config
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\Segregation\Segregation\bin\Debug\Segregation.exe
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\Segregation\Segregation\bin\Debug\Segregation.pdb
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\Segregation\Segregation\obj\Debug\Segregation.csprojResolveAssemblyReference.cache
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\Segregation\Segregation\obj\Debug\Segregation.exe
+C:\Users\navee_000\Source\Repos\DSALG\Data-Structures-algo\Segregation\Segregation\obj\Debug\Segregation.pdb
