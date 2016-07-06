@@ -48,7 +48,7 @@ namespace FindMaxElement
         static void Main(string[] args)
         {
             //input
-            int[] arr = { 120, 100, 80, 20, 0 };
+            int[] arr = { 8, 10, 20, 80, 100, 200, 400, 500, 3, 2, 1 };
             int left = 0;
             int right = arr.Length - 1;
             int max = BinarySearch(arr, left, right);
